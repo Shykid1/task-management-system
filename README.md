@@ -12,7 +12,7 @@
 ## Data Base Management
   -MongoDB
 
-##Docs
+## Docs
 This is a React.js project bootstrapped with ```creat vite@latest```.
 
 Getting Started
