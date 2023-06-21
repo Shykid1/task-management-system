@@ -11,7 +11,9 @@
 
 ## Data Base Management
   -MongoDB
-This is a Next.js project bootstrapped with create-next-app.
+
+##Docs
+This is a React.js project bootstrapped with ```creat vite@latest```.
 
 Getting Started
 First, run the development server for both client and server directory:
